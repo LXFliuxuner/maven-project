@@ -14,6 +14,8 @@ public class Demo {
         System.out.println("liuxiaofen"+name);
         System.out.println("hello hit-fix");
         System.out.println("hello master");
+        System.out.println("hello hit-fix");
+
         return "hello "+name;
     }
 }
