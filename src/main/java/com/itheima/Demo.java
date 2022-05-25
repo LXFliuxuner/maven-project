@@ -16,6 +16,7 @@ public class Demo {
         System.out.println("hello master");
         System.out.println("hello hit-fix");
         System.out.println("刘晓芬");
+        System.out.println("钟华");
         return "hello "+name;
     }
 }
