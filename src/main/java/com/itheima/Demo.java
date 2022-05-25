@@ -13,6 +13,7 @@ public class Demo {
         System.out.println("hello "+name);
         System.out.println("liuxiaofen"+name);
         System.out.println("hello hit-fix");
+        System.out.println("hello master");
         return "hello "+name;
     }
 }
